@@ -1,0 +1,10 @@
+LDI R1,#4;
+LDI R2,#1;
+LDI R4,#1;
+label:
+MUL R1,R2,R3;
+MOV R3,R2;
+SUB R1,R4,R0;
+MOV R0,R1;
+CMP R1,R4;
+BEQ label; 

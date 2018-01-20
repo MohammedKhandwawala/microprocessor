@@ -1,0 +1,6 @@
+verilog work "ALU.v"
+verilog work "eu.v"
+verilog work "cu.v"
+verilog work "microprocessor.v"
+verilog work "microtest.v"
+verilog work "C:/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,5 @@
+verilog isim_temp "ALU.v"
+verilog isim_temp "eu.v"
+verilog isim_temp "cu.v"
+verilog isim_temp "cutest.v"
+verilog isim_temp "C:/14.7/ISE_DS/ISE//verilog/src/glbl.v"

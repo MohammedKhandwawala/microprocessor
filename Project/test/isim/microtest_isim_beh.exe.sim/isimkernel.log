@@ -1,0 +1,28 @@
+Command line:
+   microtest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57044
+
+Tue Nov 07 05:49:31 2017
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 845.816 Meg
+
+ Total Signals          : 40
+ Total Nets             : 631
+ Total Signal Drivers   : 27
+ Total Blocks           : 6
+ Total Primitive Blocks : 2
+ Total Processes        : 76
+ Total Traceable Variables  : 50
+ Total Scalar Nets and Variables : 2914
+
+ Total Simulation Time: 0.34375 sec
+
+ Current Memory Usage: 1160.39 Meg
+
+Tue Nov 07 05:50:27 2017
+
